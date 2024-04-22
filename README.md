@@ -28,7 +28,7 @@
 
 ## Installation
 ```
-git clone https://github.com/Anubhav-dev-web/AI_Summarizer.git)
+git clone https://github.com/Anubhav-dev-web/Ai_Article_Summarizer-.git
 
 cd AI_Summarizer
 
