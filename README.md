@@ -1,8 +1,43 @@
-# React + Vite
+# Article Summarization Website
+                                                                                  
+<p>This website serves as a tool to summarize lengthy articles into concise and digestible summaries. It leverages the power of GPT AI model to generate accurate and coherent summaries, helping users save time and quickly grasp the key points of an article.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+* Article Summarization: Users can input the URL or text of an article, and the website will generate a summary of the article using GPT AI model.
+ 
+* Customizable Summaries: Users have the option to customize the length or level of detail of the generated summaries according to their preferences.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* User-friendly Interface: The website features a clean and intuitive interface, making it easy for users to navigate and use the summarization tool.
+
+* Responsive Design: The website is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
+
+                                                # PREVIEW --- 1
+                                                                                        
+![1](https://github.com/Anubhav-dev-web/AI_Summarizer/assets/80172002/6467359c-bc96-470a-b051-6f34831f9f05)
+
+
+                                                # PREVIEW --- 2
+
+![3](https://github.com/Anubhav-dev-web/AI_Summarizer/assets/80172002/fe110ca3-712f-4111-90c5-983cd276ad7e)
+
+                                                                                    
+                                                 # PREVIEW --- 3
+                                                                                       
+![2](https://github.com/Anubhav-dev-web/AI_Summarizer/assets/80172002/acffdf18-c165-45ef-ad11-a2f0bd354a30)
+
+## Installation
+```
+git clone https://github.com/Anubhav-dev-web/AI_Summarizer.git)
+
+cd AI_Summarizer
+
+npm install
+
+npm run dev
+
+```
+
+## Usage
+<p>To use the article summarization tool, simply input the URL or text of an article into the designated area on the website. Customize the length or level of detail of the summary as desired, and click the "Summarize" button to generate the summary.</p>
+
